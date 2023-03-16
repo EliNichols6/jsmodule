@@ -1,0 +1,19 @@
+{
+  "name": "@elinichols6/jsmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliNichols6/jsmodule.git"
+  },
+  "author": "Eli Nichols",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliNichols6/jsmodule/issues"
+  },
+  "homepage": "https://github.com/EliNichols6/jsmodule#readme"
+}
